@@ -3,7 +3,7 @@
 int main()
 {
     // Integer format specfiers
-    
+    // 4 bytes
     int n;
     unsigned int x;
     signed int y;

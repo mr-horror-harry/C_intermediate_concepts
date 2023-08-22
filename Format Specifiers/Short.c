@@ -3,7 +3,7 @@
 int main()
 {
     // short format specfiers
-    
+    // 2 bytes
     short n;
     signed short x;
     unsigned short y;

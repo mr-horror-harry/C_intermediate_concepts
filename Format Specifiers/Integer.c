@@ -11,4 +11,7 @@ int main()
     scanf("%d %u %i", &n, &x, &y);
     
     printf("%d %u %i", n, x, y);
+
+    // %d --> decimal int
+    // %i --> decimal to int, octal to int
 }
